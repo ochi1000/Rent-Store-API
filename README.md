@@ -29,6 +29,9 @@ After cloning
 ```bash
   composer install
 ```
+```bash
+  php artisan migrate
+```
     
 ## Usage/Examples
 
